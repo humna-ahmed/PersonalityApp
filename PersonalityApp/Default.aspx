@@ -33,6 +33,8 @@
     <asp:ListItem Text="<img src='https://via.placeholder.com/150/33ff77/000000?text=Forest' />" Value="Forest" />
     <asp:ListItem Text="<img src='https://via.placeholder.com/150/FFD700/000000?text=Mountain' />" Value="Mountain" />
     <asp:ListItem Text="<img src='https://via.placeholder.com/150/800080/FFFFFF?text=Galaxy' />" Value="Galaxy" />
+    <asp:ListItem Text="<img src='https://via.placeholder.com/150/7900/000000?text=Moon' />" Value="Moon" />
+    <asp:ListItem Text="<img src='https://via.placeholder.com/150/57908/FFFFFF?text=Sun' />" Value="Sun" />
 </asp:RadioButtonList>
 
 
